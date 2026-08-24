@@ -1,0 +1,1 @@
+const btn=document.querySelector('.menu');const links=document.querySelector('.nav-links');btn?.addEventListener('click',()=>{links.style.display=links.style.display==='flex'?'none':'flex'});
